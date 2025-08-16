@@ -4,4 +4,4 @@ sve oko mene bice bolje
 Kako jeste kako bice
 Sve je dobro kad je lose
 
-feature1
+feature2
